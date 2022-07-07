@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: shoaib
+Build-Jdk: version 11.0.15
+Implementation-Title: calories
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: calories.tracker
+Main-Class: ${start-class}
+
